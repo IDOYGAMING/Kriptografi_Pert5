@@ -7,12 +7,6 @@ NIM   : 312210643
 
 KELAS : TI.22.A.5
 
-MATA KULIAH : KRIPTOGRAFI
-
-
-![tugas krip](https://github.com/user-attachments/assets/369ace73-d5b5-482c-b33a-9775b03edd25)
-
-
 
 
 - ## source code:
@@ -109,7 +103,8 @@ for plaintext in plaintexts:
 ```
 
 - ## Outputnya
-![hasil krip](https://github.com/user-attachments/assets/8613f2bc-35c4-4ae7-b76f-d08f38570e0b)
+![hasil krip](https://github.com/user-attachments/assets/daa89e7f-4c92-45bc-95cb-7b0039efae40)
+
 
 
 
